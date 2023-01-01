@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=build-zk&label=Profile%20views&color=0e75b6&style=flat" alt="build-zk" /> </p>
 
-- 🌱 I’m currently learning **language c**
-
 - 📫 How to reach me **julian.crausaz@epitech.eu**
 
 <h3 align="left">Languages and Tools:</h3>
